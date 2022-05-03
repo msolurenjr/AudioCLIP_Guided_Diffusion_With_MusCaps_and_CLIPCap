@@ -1,4 +1,4 @@
-### AudioCLIP_Guided_Diffusion_With_MusCaps_and_CLIPCap [![Colab](https://colab.research.google.com/drive/1QPGeBJEoIKY3nY_iZF3lz4I1vM7QFytJ?usp=sharing)
+### AudioCLIP_Guided_Diffusion_With_MusCaps_and_CLIPCap [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QPGeBJEoIKY3nY_iZF3lz4I1vM7QFytJ?usp=sharing)
 
 This project is a modification of the original Clip Guided Diffusion notebook by Katherine Crowson (https://github.com/crowsonkb, https://twitter.com/RiversHaveWings). It uses OpenAI's 256x256 unconditional ImageNet diffusion model (https://github.com/openai/guided-diffusion) together with AudioCLIP (https://github.com/AndreyGuzhov/AudioCLIP) to generate images from text prompts and audio prompts.
 
@@ -14,7 +14,7 @@ It also features the following:
 
 2. An image captioning mechanism in the form of ClipCap, a lightweight prefix-based model that binds GPT2 and the vision transformer (ViT) version of clip to produce a caption for each generated image.
 
-The original notebook can be found here: https://colab.research.google.com/drive/12a_Wrfi2_gwwAuN3VvMTwVMz9TfqctNj
+Access the notebook by clicking the Google Colab sticker: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QPGeBJEoIKY3nY_iZF3lz4I1vM7QFytJ?usp=sharing)
 
 
 Some example images are shown below:
