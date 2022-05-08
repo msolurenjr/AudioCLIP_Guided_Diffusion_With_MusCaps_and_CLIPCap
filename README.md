@@ -20,3 +20,64 @@ Access the notebook by clicking the Google Colab sticker: [![Colab](https://cola
 Some example images are shown below:
 
 ![alt text](https://github.com/msolurenjr/AudioCLIP_Guided_Diffusion_With_MusCaps_and_CLIPCap/blob/main/Samples/Alarm%20Clock%20Generations.jpg)
+
+![alt text](https://github.com/msolurenjr/AudioCLIP_Guided_Diffusion_With_MusCaps_and_CLIPCap/blob/main/Samples/Car%20Generations.jpg)
+
+### Citations
+```bibtex
+@article{DBLP:journals/corr/abs-2106-13043,
+  author    = {Andrey Guzhov and
+               Federico Raue and
+               J{\"{o}}rn Hees and
+               Andreas Dengel},
+  title     = {AudioCLIP: Extending {CLIP} to Image, Text and Audio},
+  journal   = {CoRR},
+  volume    = {abs/2106.13043},
+  year      = {2021},
+  url       = {https://arxiv.org/abs/2106.13043},
+  eprinttype = {arXiv},
+  eprint    = {2106.13043},
+  timestamp = {Wed, 30 Jun 2021 16:14:10 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2106-13043.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+```
+
+```bibtex
+@article{DBLP:journals/corr/abs-2104-11984,
+  author    = {Ilaria Manco and
+               Emmanouil Benetos and
+               Elio Quinton and
+               Gy{\"{o}}rgy Fazekas},
+  title     = {MusCaps: Generating Captions for Music Audio},
+  journal   = {CoRR},
+  volume    = {abs/2104.11984},
+  year      = {2021},
+  url       = {https://arxiv.org/abs/2104.11984},
+  eprinttype = {arXiv},
+  eprint    = {2104.11984},
+  timestamp = {Mon, 03 May 2021 17:38:30 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2104-11984.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+```
+
+```bibtex
+@article{DBLP:journals/corr/abs-2111-09734,
+  author    = {Ron Mokady and
+               Amir Hertz and
+               Amit H. Bermano},
+  title     = {ClipCap: {CLIP} Prefix for Image Captioning},
+  journal   = {CoRR},
+  volume    = {abs/2111.09734},
+  year      = {2021},
+  url       = {https://arxiv.org/abs/2111.09734},
+  eprinttype = {arXiv},
+  eprint    = {2111.09734},
+  timestamp = {Mon, 22 Nov 2021 16:44:06 +0100},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2111-09734.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+```
